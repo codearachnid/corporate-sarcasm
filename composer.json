@@ -12,7 +12,9 @@
         "php": "^8.2",
         "calebporzio/sushi": "^2.5",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1"
+        "laravel/sanctum": "^4.0",
+        "laravel/tinker": "^2.10.1",
+        "prism-php/prism": "^0.88.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
